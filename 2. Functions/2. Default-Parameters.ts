@@ -1,4 +1,4 @@
-function greet(person: string = "Anonymous") {
+function greet(person: string = "anonymous") {
     return `Hello ${person}`
 }
 
