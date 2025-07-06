@@ -7,5 +7,5 @@ const Res = double1(3);
 console.log(Res);
 
 //Arrow Function
-const doubl2 = (x: number): number => x * x;
-console.log(doubl2(2));
+const doublee2 = (x: number): number => x * x;
+console.log(doublee2(2));
